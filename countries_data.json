@@ -1,0 +1,1874 @@
+{
+    "India": {
+        "population": "1,476,625,576",
+        "region": "Asia",
+        "gdp": "$4.15 trillion",
+        "gdp_full_value": "$4,153,191,000,000",
+        "gdp_growth": "6.48%",
+        "gdp_per_capital": "$2,813"
+    },
+    "China": {
+        "population": "1,412,914,089",
+        "region": "Asia",
+        "gdp": "$20.85 trillion",
+        "gdp_full_value": "$20,851,593,000,000",
+        "gdp_growth": "4.41%",
+        "gdp_per_capital": "$14,874"
+    },
+    "United States": {
+        "population": "349,035,494",
+        "region": "Northern America",
+        "gdp": "$32.38 trillion",
+        "gdp_full_value": "$32,383,920,000,000",
+        "gdp_growth": "2.32%",
+        "gdp_per_capital": "$94,430"
+    },
+    "Indonesia": {
+        "population": "287,886,782",
+        "region": "Asia",
+        "gdp": "$1.54 trillion",
+        "gdp_full_value": "$1,539,872,000,000",
+        "gdp_growth": "4.95%",
+        "gdp_per_capital": "$5,362"
+    },
+    "Pakistan": {
+        "population": "259,299,791",
+        "region": "Asia",
+        "gdp": "$407.79 billion (2025)",
+        "gdp_full_value": "$407,786,000,000",
+        "gdp_growth": "3.09%",
+        "gdp_per_capital": "$1,696"
+    },
+    "Nigeria": {
+        "population": "242,431,832",
+        "region": "Africa",
+        "gdp": "$377.37 billion",
+        "gdp_full_value": "$377,365,000,000",
+        "gdp_growth": "4.06%",
+        "gdp_per_capital": "$1,556"
+    },
+    "Brazil": {
+        "population": "213,562,666",
+        "region": "Latin America",
+        "gdp": "$2.64 trillion",
+        "gdp_full_value": "$2,635,912,000,000",
+        "gdp_growth": "1.91%",
+        "gdp_per_capital": "$12,313"
+    },
+    "Bangladesh": {
+        "population": "177,818,044",
+        "region": "Asia",
+        "gdp": "$510.7 billion",
+        "gdp_full_value": "$510,705,000,000",
+        "gdp_growth": "4.69%",
+        "gdp_per_capital": "$2,911"
+    },
+    "Russia": {
+        "population": "143,394,458",
+        "region": "Europe",
+        "gdp": "$2.66 trillion",
+        "gdp_full_value": "$2,656,452,000,000",
+        "gdp_growth": "1.09%",
+        "gdp_per_capital": "$18,525"
+    },
+    "Ethiopia": {
+        "population": "138,902,185",
+        "region": "Africa",
+        "gdp": "$121.53 billion",
+        "gdp_full_value": "$121,527,000,000",
+        "gdp_growth": "9.20%",
+        "gdp_per_capital": "$1,081"
+    },
+    "Mexico": {
+        "population": "132,997,658",
+        "region": "Latin America",
+        "gdp": "$2.12 trillion",
+        "gdp_full_value": "$2,120,855,000,000",
+        "gdp_growth": "1.64%",
+        "gdp_per_capital": "$15,779"
+    },
+    "Japan": {
+        "population": "122,427,731",
+        "region": "Asia",
+        "gdp": "$4.38 trillion",
+        "gdp_full_value": "$4,379,253,000,000",
+        "gdp_growth": "0.72%",
+        "gdp_per_capital": "$35,703"
+    },
+    "Egypt": {
+        "population": "120,101,175",
+        "region": "Africa",
+        "gdp": "$429.64 billion",
+        "gdp_full_value": "$429,645,000,000",
+        "gdp_growth": "4.24%",
+        "gdp_per_capital": "$3,904"
+    },
+    "Philippines": {
+        "population": "117,724,471",
+        "region": "Asia",
+        "gdp": "$512.22 billion",
+        "gdp_full_value": "$512,222,000,000",
+        "gdp_growth": "4.07%",
+        "gdp_per_capital": "$4,443"
+    },
+    "DR Congo": {
+        "population": "116,452,162",
+        "region": "Africa",
+        "gdp": "$123.41 billion",
+        "gdp_full_value": "$123,406,000,000",
+        "gdp_growth": "5.90%",
+        "gdp_per_capital": "$1,122"
+    },
+    "Vietnam": {
+        "population": "102,177,431",
+        "region": "Asia",
+        "gdp": "$527.27 billion",
+        "gdp_full_value": "$527,266,000,000",
+        "gdp_growth": "7.10%",
+        "gdp_per_capital": "$5,115"
+    },
+    "Iran": {
+        "population": "93,168,497",
+        "region": "Asia",
+        "gdp": "$300.29 billion",
+        "gdp_full_value": "$300,293,000,000",
+        "gdp_growth": "\u22126.07%",
+        "gdp_per_capital": "$3,415"
+    },
+    "Turkey": {
+        "population": "87,926,082",
+        "region": "Asia",
+        "gdp": "$1.64 trillion",
+        "gdp_full_value": "$1,640,223,000,000",
+        "gdp_growth": "3.37%",
+        "gdp_per_capital": "$19,018"
+    },
+    "Germany": {
+        "population": "83,644,258",
+        "region": "Europe",
+        "gdp": "$5.45 trillion",
+        "gdp_full_value": "$5,452,858,000,000",
+        "gdp_growth": "0.79%",
+        "gdp_per_capital": "$65,303"
+    },
+    "Tanzania": {
+        "population": "72,563,780",
+        "region": "Africa",
+        "gdp": "$94.89 billion",
+        "gdp_full_value": "$94,889,000,000",
+        "gdp_growth": "5.94%",
+        "gdp_per_capital": "$1,362"
+    },
+    "Thailand": {
+        "population": "71,559,614",
+        "region": "Asia",
+        "gdp": "$580 billion",
+        "gdp_full_value": "$579,996,000,000",
+        "gdp_growth": "1.50%",
+        "gdp_per_capital": "$8,105"
+    },
+    "United Kingdom": {
+        "population": "69,931,528",
+        "region": "Europe",
+        "gdp": "$4.26 trillion",
+        "gdp_full_value": "$4,264,794,000,000",
+        "gdp_growth": "0.80%",
+        "gdp_per_capital": "$61,056"
+    },
+    "France": {
+        "population": "66,746,401",
+        "region": "Europe",
+        "gdp": "$3.6 trillion",
+        "gdp_full_value": "$3,596,094,000,000",
+        "gdp_growth": "0.86%",
+        "gdp_per_capital": "$52,083"
+    },
+    "South Africa": {
+        "population": "65,453,084",
+        "region": "Africa",
+        "gdp": "$479.96 billion",
+        "gdp_full_value": "$479,964,000,000",
+        "gdp_growth": "1.05%",
+        "gdp_per_capital": "$7,503"
+    },
+    "Italy": {
+        "population": "58,926,166",
+        "region": "Europe",
+        "gdp": "$2.74 trillion",
+        "gdp_full_value": "$2,738,164,000,000",
+        "gdp_growth": "0.52%",
+        "gdp_per_capital": "$46,505"
+    },
+    "Kenya": {
+        "population": "58,636,412",
+        "region": "Africa",
+        "gdp": "$147.26 billion",
+        "gdp_full_value": "$147,265,000,000",
+        "gdp_growth": "4.47%",
+        "gdp_per_capital": "$2,714"
+    },
+    "Myanmar": {
+        "population": "55,184,819",
+        "region": "Asia",
+        "gdp": "$83.83 billion",
+        "gdp_full_value": "$83,832,000,000",
+        "gdp_growth": "3.00%",
+        "gdp_per_capital": "$1,519"
+    },
+    "Colombia": {
+        "population": "53,936,226",
+        "region": "Latin America",
+        "gdp": "$539.53 billion",
+        "gdp_full_value": "$539,530,000,000",
+        "gdp_growth": "2.34%",
+        "gdp_per_capital": "$10,104"
+    },
+    "Sudan": {
+        "population": "53,282,719",
+        "region": "Africa",
+        "gdp": "$44.69 billion",
+        "gdp_full_value": "$44,688,000,000",
+        "gdp_growth": "0.71%",
+        "gdp_per_capital": "$864"
+    },
+    "Uganda": {
+        "population": "52,761,469",
+        "region": "Africa",
+        "gdp": "$73.37 billion",
+        "gdp_full_value": "$73,370,000,000",
+        "gdp_growth": "7.51%",
+        "gdp_per_capital": "$1,476"
+    },
+    "South Korea": {
+        "population": "51,600,388",
+        "region": "Asia",
+        "gdp": "$1.93 trillion",
+        "gdp_full_value": "$1,931,008,000,000",
+        "gdp_growth": "1.86%",
+        "gdp_per_capital": "$37,412"
+    },
+    "Algeria": {
+        "population": "48,028,334",
+        "region": "Africa",
+        "gdp": "$317.17 billion",
+        "gdp_full_value": "$317,173,000,000",
+        "gdp_growth": "3.78%",
+        "gdp_per_capital": "$6,628"
+    },
+    "Iraq": {
+        "population": "48,007,437",
+        "region": "Asia",
+        "gdp": "$264.78 billion",
+        "gdp_full_value": "$264,784,000,000",
+        "gdp_growth": "\u22126.77%",
+        "gdp_per_capital": "$5,677"
+    },
+    "Spain": {
+        "population": "47,850,793",
+        "region": "Europe",
+        "gdp": "$2.09 trillion",
+        "gdp_full_value": "$2,091,222,000,000",
+        "gdp_growth": "2.09%",
+        "gdp_per_capital": "$41,563"
+    },
+    "Argentina": {
+        "population": "46,003,734",
+        "region": "Latin America",
+        "gdp": "$688.38 billion",
+        "gdp_full_value": "$688,378,000,000",
+        "gdp_growth": "3.50%",
+        "gdp_per_capital": "$14,357"
+    },
+    "Afghanistan": {
+        "population": "45,047,069",
+        "region": "Asia",
+        "gdp": "$19.66 billion (2025)",
+        "gdp_full_value": "$19,662,000,000",
+        "gdp_growth": "3.00%",
+        "gdp_per_capital": "$448"
+    },
+    "Yemen": {
+        "population": "42,961,653",
+        "region": "Asia",
+        "gdp": "$7.43 billion",
+        "gdp_full_value": "$7,435,000,000",
+        "gdp_growth": "0.51%",
+        "gdp_per_capital": "$384"
+    },
+    "Canada": {
+        "population": "40,467,728",
+        "region": "Northern America",
+        "gdp": "$2.51 trillion",
+        "gdp_full_value": "$2,507,340,000,000",
+        "gdp_growth": "1.50%",
+        "gdp_per_capital": "$60,305"
+    },
+    "Angola": {
+        "population": "40,215,179",
+        "region": "Africa",
+        "gdp": "$152.35 billion",
+        "gdp_full_value": "$152,354,000,000",
+        "gdp_growth": "2.29%",
+        "gdp_per_capital": "$3,754"
+    },
+    "Ukraine": {
+        "population": "39,535,849",
+        "region": "Europe",
+        "gdp": "$225.34 billion",
+        "gdp_full_value": "$225,337,000,000",
+        "gdp_growth": "2.00%",
+        "gdp_per_capital": "$6,980"
+    },
+    "Morocco": {
+        "population": "38,762,441",
+        "region": "Africa",
+        "gdp": "$194.33 billion",
+        "gdp_full_value": "$194,333,000,000",
+        "gdp_growth": "4.87%",
+        "gdp_per_capital": "$5,107"
+    },
+    "Poland": {
+        "population": "37,843,188",
+        "region": "Europe",
+        "gdp": "$1.13 trillion",
+        "gdp_full_value": "$1,134,248,000,000",
+        "gdp_growth": "3.32%",
+        "gdp_per_capital": "$31,336"
+    },
+    "Uzbekistan": {
+        "population": "37,724,223",
+        "region": "Asia",
+        "gdp": "$181.5 billion",
+        "gdp_full_value": "$181,502,000,000",
+        "gdp_growth": "6.47%",
+        "gdp_per_capital": "$4,661"
+    },
+    "Mozambique": {
+        "population": "36,639,851",
+        "region": "Africa",
+        "gdp": "$23.27 billion",
+        "gdp_full_value": "$23,275,000,000",
+        "gdp_growth": "0.52%",
+        "gdp_per_capital": "$632"
+    },
+    "Malaysia": {
+        "population": "36,385,115",
+        "region": "Asia",
+        "gdp": "$516.43 billion",
+        "gdp_full_value": "$516,428,000,000",
+        "gdp_growth": "4.70%",
+        "gdp_per_capital": "$15,085"
+    },
+    "Ghana": {
+        "population": "35,697,557",
+        "region": "Africa",
+        "gdp": "$118.29 billion",
+        "gdp_full_value": "$118,293,000,000",
+        "gdp_growth": "4.75%",
+        "gdp_per_capital": "$3,314"
+    },
+    "Saudi Arabia": {
+        "population": "35,165,787",
+        "region": "Asia",
+        "gdp": "$1.39 trillion",
+        "gdp_full_value": "$1,388,676,000,000",
+        "gdp_growth": "3.12%",
+        "gdp_per_capital": "$37,811"
+    },
+    "Peru": {
+        "population": "34,922,148",
+        "region": "Latin America",
+        "gdp": "$380.9 billion",
+        "gdp_full_value": "$380,900,000,000",
+        "gdp_growth": "2.82%",
+        "gdp_per_capital": "$10,960"
+    },
+    "Madagascar": {
+        "population": "33,522,052",
+        "region": "Africa",
+        "gdp": "$21.18 billion",
+        "gdp_full_value": "$21,185,000,000",
+        "gdp_growth": "3.64%",
+        "gdp_per_capital": "$656"
+    },
+    "C\u00f4te d'Ivoire": {
+        "population": "33,494,346",
+        "region": "Africa",
+        "gdp": "$112.11 billion",
+        "gdp_full_value": "$112,115,000,000",
+        "gdp_growth": "6.20%",
+        "gdp_per_capital": "$3,313"
+    },
+    "Cameroon": {
+        "population": "30,640,817",
+        "region": "Africa",
+        "gdp": "$65.14 billion",
+        "gdp_full_value": "$65,135,000,000",
+        "gdp_growth": "3.34%",
+        "gdp_per_capital": "$2,125"
+    },
+    "Nepal": {
+        "population": "29,629,410",
+        "region": "Asia",
+        "gdp": "$45.84 billion",
+        "gdp_full_value": "$45,844,000,000",
+        "gdp_growth": "2.96%",
+        "gdp_per_capital": "$1,548"
+    },
+    "Niger": {
+        "population": "28,814,878",
+        "region": "Africa",
+        "gdp": "$24.81 billion",
+        "gdp_full_value": "$24,813,000,000",
+        "gdp_growth": "6.73%",
+        "gdp_per_capital": "$822"
+    },
+    "Venezuela": {
+        "population": "28,633,711",
+        "region": "Latin America",
+        "gdp": "$111.3 billion",
+        "gdp_full_value": "$111,303,000,000",
+        "gdp_growth": "4.04%",
+        "gdp_per_capital": "$4,140"
+    },
+    "Australia": {
+        "population": "27,227,096",
+        "region": "Oceania",
+        "gdp": "$2.12 trillion",
+        "gdp_full_value": "$2,123,963,000,000",
+        "gdp_growth": "2.01%",
+        "gdp_per_capital": "$75,648"
+    },
+    "North Korea": {
+        "population": "26,633,691",
+        "region": "Asia",
+        "gdp": "$16.45 billion (UN, 2023)",
+        "gdp_full_value": "$16,446,632,290",
+        "gdp_growth": "3.06%",
+        "gdp_per_capital": "$640"
+    },
+    "Syria": {
+        "population": "26,472,497",
+        "region": "Asia",
+        "gdp": "$19.99 billion (WB, 2023)",
+        "gdp_full_value": "$19,993,439,950",
+        "gdp_growth": "\u22121.21%",
+        "gdp_per_capital": "$847"
+    },
+    "Mali": {
+        "population": "25,932,275",
+        "region": "Africa",
+        "gdp": "$33.85 billion",
+        "gdp_full_value": "$33,847,000,000",
+        "gdp_growth": "5.50%",
+        "gdp_per_capital": "$1,301"
+    },
+    "Burkina Faso": {
+        "population": "24,601,700",
+        "region": "Africa",
+        "gdp": "$32.51 billion",
+        "gdp_full_value": "$32,513,000,000",
+        "gdp_growth": "4.86%",
+        "gdp_per_capital": "$1,319"
+    },
+    "Sri Lanka": {
+        "population": "23,348,315",
+        "region": "Asia",
+        "gdp": "$98.96 billion (2024)",
+        "gdp_full_value": "$98,964,000,000",
+        "gdp_growth": "5.01%",
+        "gdp_per_capital": "$4,516"
+    },
+    "Malawi": {
+        "population": "22,785,535",
+        "region": "Africa",
+        "gdp": "$18.15 billion",
+        "gdp_full_value": "$18,152,000,000",
+        "gdp_growth": "2.23%",
+        "gdp_per_capital": "$733"
+    },
+    "Zambia": {
+        "population": "22,521,915",
+        "region": "Africa",
+        "gdp": "$41.24 billion",
+        "gdp_full_value": "$41,243,000,000",
+        "gdp_growth": "4.29%",
+        "gdp_per_capital": "$1,831"
+    },
+    "Chad": {
+        "population": "21,560,380",
+        "region": "Africa",
+        "gdp": "$25.63 billion",
+        "gdp_full_value": "$25,628,000,000",
+        "gdp_growth": "5.23%",
+        "gdp_per_capital": "$1,315"
+    },
+    "Kazakhstan": {
+        "population": "21,083,626",
+        "region": "Asia",
+        "gdp": "$360.46 billion",
+        "gdp_full_value": "$360,456,000,000",
+        "gdp_growth": "4.61%",
+        "gdp_per_capital": "$17,503"
+    },
+    "Somalia": {
+        "population": "20,305,907",
+        "region": "Africa",
+        "gdp": "$14.17 billion",
+        "gdp_full_value": "$14,174,000,000",
+        "gdp_growth": "2.60%",
+        "gdp_per_capital": "$813"
+    },
+    "Chile": {
+        "population": "19,945,850",
+        "region": "Latin America",
+        "gdp": "$407.85 billion",
+        "gdp_full_value": "$407,850,000,000",
+        "gdp_growth": "2.40%",
+        "gdp_per_capital": "$20,240"
+    },
+    "Senegal": {
+        "population": "19,366,548",
+        "region": "Africa",
+        "gdp": "$40.47 billion",
+        "gdp_full_value": "$40,469,000,000",
+        "gdp_growth": "2.17%",
+        "gdp_per_capital": "$2,054"
+    },
+    "Guatemala": {
+        "population": "18,967,978",
+        "region": "Latin America",
+        "gdp": "$128.89 billion",
+        "gdp_full_value": "$128,886,000,000",
+        "gdp_growth": "3.94%",
+        "gdp_per_capital": "$6,810"
+    },
+    "Romania": {
+        "population": "18,800,605",
+        "region": "Europe",
+        "gdp": "$480.83 billion",
+        "gdp_full_value": "$480,834,000,000",
+        "gdp_growth": "0.69%",
+        "gdp_per_capital": "$25,693"
+    },
+    "Netherlands": {
+        "population": "18,448,775",
+        "region": "Europe",
+        "gdp": "$1.45 trillion",
+        "gdp_full_value": "$1,449,704,000,000",
+        "gdp_growth": "1.23%",
+        "gdp_per_capital": "$79,918"
+    },
+    "Ecuador": {
+        "population": "18,444,506",
+        "region": "Latin America",
+        "gdp": "$138.19 billion",
+        "gdp_full_value": "$138,194,000,000",
+        "gdp_growth": "2.51%",
+        "gdp_per_capital": "$7,575"
+    },
+    "Cambodia": {
+        "population": "18,051,219",
+        "region": "Asia",
+        "gdp": "$52.38 billion",
+        "gdp_full_value": "$52,379,000,000",
+        "gdp_growth": "4.02%",
+        "gdp_per_capital": "$2,902"
+    },
+    "Zimbabwe": {
+        "population": "17,273,580",
+        "region": "Africa",
+        "gdp": "$56.71 billion",
+        "gdp_full_value": "$56,713,000,000",
+        "gdp_growth": "4.97%",
+        "gdp_per_capital": "$3,199"
+    },
+    "Guinea": {
+        "population": "15,441,993",
+        "region": "Africa",
+        "gdp": "$29.93 billion",
+        "gdp_full_value": "$29,930,000,000",
+        "gdp_growth": "8.68%",
+        "gdp_per_capital": "$1,848"
+    },
+    "Benin": {
+        "population": "15,170,419",
+        "region": "Africa",
+        "gdp": "$27.79 billion",
+        "gdp_full_value": "$27,786,000,000",
+        "gdp_growth": "6.97%",
+        "gdp_per_capital": "$1,809"
+    },
+    "Rwanda": {
+        "population": "14,889,693",
+        "region": "Africa",
+        "gdp": "$17.34 billion",
+        "gdp_full_value": "$17,336,000,000",
+        "gdp_growth": "7.23%",
+        "gdp_per_capital": "$1,198"
+    },
+    "Burundi": {
+        "population": "14,729,157",
+        "region": "Africa",
+        "gdp": "$8.14 billion",
+        "gdp_full_value": "$8,137,000,000",
+        "gdp_growth": "3.82%",
+        "gdp_per_capital": "$546"
+    },
+    "Bolivia": {
+        "population": "12,749,291",
+        "region": "Latin America",
+        "gdp": "$80.74 billion",
+        "gdp_full_value": "$80,743,000,000",
+        "gdp_growth": "\u22123.29%",
+        "gdp_per_capital": "$6,333"
+    },
+    "South Sudan": {
+        "population": "12,436,037",
+        "region": "Africa",
+        "gdp": "$6.07 billion",
+        "gdp_full_value": "$6,069,000,000",
+        "gdp_growth": "4.14%",
+        "gdp_per_capital": "$488"
+    },
+    "Tunisia": {
+        "population": "12,415,138",
+        "region": "Africa",
+        "gdp": "$60.74 billion",
+        "gdp_full_value": "$60,745,000,000",
+        "gdp_growth": "2.11%",
+        "gdp_per_capital": "$4,893"
+    },
+    "Haiti": {
+        "population": "12,037,506",
+        "region": "Latin America",
+        "gdp": "$39.18 billion",
+        "gdp_full_value": "$39,180,000,000",
+        "gdp_growth": "\u22121.70%",
+        "gdp_per_capital": "$3,079"
+    },
+    "Belgium": {
+        "population": "11,774,642",
+        "region": "Europe",
+        "gdp": "$776.73 billion",
+        "gdp_full_value": "$776,730,000,000",
+        "gdp_growth": "0.66%",
+        "gdp_per_capital": "$65,112"
+    },
+    "Dominican Republic": {
+        "population": "11,609,500",
+        "region": "Latin America",
+        "gdp": "$136.15 billion",
+        "gdp_full_value": "$136,148,000,000",
+        "gdp_growth": "3.72%",
+        "gdp_per_capital": "$12,406"
+    },
+    "Jordan": {
+        "population": "11,589,532",
+        "region": "Asia",
+        "gdp": "$64.91 billion",
+        "gdp_full_value": "$64,909,000,000",
+        "gdp_growth": "2.75%",
+        "gdp_per_capital": "$5,601"
+    },
+    "United Arab Emirates": {
+        "population": "11,574,682",
+        "region": "Asia",
+        "gdp": "$621.55 billion",
+        "gdp_full_value": "$621,546,000,000",
+        "gdp_growth": "3.14%",
+        "gdp_per_capital": "$54,214"
+    },
+    "Honduras": {
+        "population": "11,184,760",
+        "region": "Latin America",
+        "gdp": "$41.51 billion",
+        "gdp_full_value": "$41,505,000,000",
+        "gdp_growth": "3.30%",
+        "gdp_per_capital": "$3,711"
+    },
+    "Tajikistan": {
+        "population": "10,978,599",
+        "region": "Asia",
+        "gdp": "$20.42 billion",
+        "gdp_full_value": "$20,418,000,000",
+        "gdp_growth": "6.00%",
+        "gdp_per_capital": "$1,939"
+    },
+    "Papua New Guinea": {
+        "population": "10,947,848",
+        "region": "Oceania",
+        "gdp": "$34.4 billion",
+        "gdp_full_value": "$34,403,000,000",
+        "gdp_growth": "3.75%",
+        "gdp_per_capital": "$2,632"
+    },
+    "Cuba": {
+        "population": "10,892,659",
+        "region": "Latin America",
+        "gdp": "$201.99 billion (UN, 2023)",
+        "gdp_full_value": "$201,985,998,168",
+        "gdp_growth": "\u22121.93%",
+        "gdp_per_capital": "$18,329"
+    },
+    "Sweden": {
+        "population": "10,701,047",
+        "region": "Europe",
+        "gdp": "$760.48 billion",
+        "gdp_full_value": "$760,481,000,000",
+        "gdp_growth": "1.96%",
+        "gdp_per_capital": "$70,676"
+    },
+    "Czech Republic (Czechia)": {
+        "population": "10,527,781",
+        "region": "Europe",
+        "gdp": "$432.6 billion",
+        "gdp_full_value": "$432,597,000,000",
+        "gdp_growth": "2.23%",
+        "gdp_per_capital": "$39,795"
+    },
+    "Azerbaijan": {
+        "population": "10,454,855",
+        "region": "Asia",
+        "gdp": "$78.37 billion",
+        "gdp_full_value": "$78,372,000,000",
+        "gdp_growth": "2.22%",
+        "gdp_per_capital": "$7,467"
+    },
+    "Portugal": {
+        "population": "10,395,362",
+        "region": "Europe",
+        "gdp": "$380.64 billion",
+        "gdp_full_value": "$380,637,000,000",
+        "gdp_growth": "1.93%",
+        "gdp_per_capital": "$35,434"
+    },
+    "Togo": {
+        "population": "9,930,918",
+        "region": "Africa",
+        "gdp": "$13.44 billion",
+        "gdp_full_value": "$13,437,000,000",
+        "gdp_growth": "5.00%",
+        "gdp_per_capital": "$1,341"
+    },
+    "Greece": {
+        "population": "9,897,115",
+        "region": "Europe",
+        "gdp": "$307.55 billion",
+        "gdp_full_value": "$307,554,000,000",
+        "gdp_growth": "1.80%",
+        "gdp_per_capital": "$29,696"
+    },
+    "Israel": {
+        "population": "9,647,689",
+        "region": "Asia",
+        "gdp": "$719.85 billion",
+        "gdp_full_value": "$719,848,000,000",
+        "gdp_growth": "3.53%",
+        "gdp_per_capital": "$69,804"
+    },
+    "Hungary": {
+        "population": "9,585,818",
+        "region": "Europe",
+        "gdp": "$271.12 billion",
+        "gdp_full_value": "$271,122,000,000",
+        "gdp_growth": "1.66%",
+        "gdp_per_capital": "$28,430"
+    },
+    "Austria": {
+        "population": "9,107,266",
+        "region": "Europe",
+        "gdp": "$623.72 billion",
+        "gdp_full_value": "$623,719,000,000",
+        "gdp_growth": "0.68%",
+        "gdp_per_capital": "$67,761"
+    },
+    "Switzerland": {
+        "population": "9,007,798",
+        "region": "Europe",
+        "gdp": "$1.15 trillion",
+        "gdp_full_value": "$1,146,911,000,000",
+        "gdp_growth": "1.34%",
+        "gdp_per_capital": "$126,177"
+    },
+    "Sierra Leone": {
+        "population": "8,996,745",
+        "region": "Africa",
+        "gdp": "$8.27 billion",
+        "gdp_full_value": "$8,270,000,000",
+        "gdp_growth": "4.55%",
+        "gdp_per_capital": "$919"
+    },
+    "Belarus": {
+        "population": "8,937,018",
+        "region": "Europe",
+        "gdp": "$102.04 billion",
+        "gdp_full_value": "$102,042,000,000",
+        "gdp_growth": "1.22%",
+        "gdp_per_capital": "$11,286"
+    },
+    "Laos": {
+        "population": "7,974,017",
+        "region": "Asia",
+        "gdp": "$18.96 billion",
+        "gdp_full_value": "$18,959,000,000",
+        "gdp_growth": "4.01%",
+        "gdp_per_capital": "$2,403"
+    },
+    "Turkmenistan": {
+        "population": "7,736,632",
+        "region": "Asia",
+        "gdp": "$83.06 billion",
+        "gdp_full_value": "$83,065,000,000",
+        "gdp_growth": "2.60%",
+        "gdp_per_capital": "$12,300"
+    },
+    "Libya": {
+        "population": "7,539,851",
+        "region": "Africa",
+        "gdp": "$52.45 billion",
+        "gdp_full_value": "$52,453,000,000",
+        "gdp_growth": "6.72%",
+        "gdp_per_capital": "$6,962"
+    },
+    "Kyrgyzstan": {
+        "population": "7,400,465",
+        "region": "Asia",
+        "gdp": "$23.61 billion",
+        "gdp_full_value": "$23,606,000,000",
+        "gdp_growth": "6.08%",
+        "gdp_per_capital": "$3,202"
+    },
+    "Nicaragua": {
+        "population": "7,097,329",
+        "region": "Latin America",
+        "gdp": "$24.23 billion",
+        "gdp_full_value": "$24,227,000,000",
+        "gdp_growth": "3.84%",
+        "gdp_per_capital": "$3,559"
+    },
+    "Paraguay": {
+        "population": "7,095,279",
+        "region": "Latin America",
+        "gdp": "$60.54 billion",
+        "gdp_full_value": "$60,542,000,000",
+        "gdp_growth": "4.20%",
+        "gdp_per_capital": "$9,372"
+    },
+    "Bulgaria": {
+        "population": "6,667,659",
+        "region": "Europe",
+        "gdp": "$148.12 billion",
+        "gdp_full_value": "$148,121,000,000",
+        "gdp_growth": "2.77%",
+        "gdp_per_capital": "$23,848"
+    },
+    "Serbia": {
+        "population": "6,641,964",
+        "region": "Europe",
+        "gdp": "$112.03 billion",
+        "gdp_full_value": "$112,025,000,000",
+        "gdp_growth": "2.83%",
+        "gdp_per_capital": "$17,252"
+    },
+    "Congo": {
+        "population": "6,637,785",
+        "region": "Africa",
+        "gdp": "$17.03 billion",
+        "gdp_full_value": "$17,028,000,000",
+        "gdp_growth": "2.84%",
+        "gdp_per_capital": "$2,554"
+    },
+    "El Salvador": {
+        "population": "6,391,253",
+        "region": "Latin America",
+        "gdp": "$39.84 billion",
+        "gdp_full_value": "$39,838,000,000",
+        "gdp_growth": "3.30%",
+        "gdp_per_capital": "$6,196"
+    },
+    "Denmark": {
+        "population": "6,023,520",
+        "region": "Europe",
+        "gdp": "$503.77 billion",
+        "gdp_full_value": "$503,772,000,000",
+        "gdp_growth": "2.00%",
+        "gdp_per_capital": "$83,445"
+    },
+    "Singapore": {
+        "population": "5,905,748",
+        "region": "Asia",
+        "gdp": "$659.57 billion",
+        "gdp_full_value": "$659,572,000,000",
+        "gdp_growth": "3.51%",
+        "gdp_per_capital": "$107,758"
+    },
+    "Lebanon": {
+        "population": "5,897,467",
+        "region": "Asia",
+        "gdp": "$34.5 billion (2025)",
+        "gdp_full_value": "$34,497,000,000",
+        "gdp_growth": "4.00%",
+        "gdp_per_capital": "$6,443"
+    },
+    "Liberia": {
+        "population": "5,853,949",
+        "region": "Africa",
+        "gdp": "$5.64 billion",
+        "gdp_full_value": "$5,642,000,000",
+        "gdp_growth": "5.11%",
+        "gdp_per_capital": "$964"
+    },
+    "Central African Republic": {
+        "population": "5,698,984",
+        "region": "Africa",
+        "gdp": "$3.49 billion",
+        "gdp_full_value": "$3,492,000,000",
+        "gdp_growth": "2.61%",
+        "gdp_per_capital": "$613"
+    },
+    "State of Palestine": {
+        "population": "5,692,790",
+        "region": "Asia",
+        "gdp": "$13.71 billion (2024)",
+        "gdp_full_value": "$13,711,000,000",
+        "gdp_growth": "\u221226.60%",
+        "gdp_per_capital": "$2,443"
+    },
+    "Oman": {
+        "population": "5,671,458",
+        "region": "Asia",
+        "gdp": "$117.18 billion",
+        "gdp_full_value": "$117,176,000,000",
+        "gdp_growth": "3.45%",
+        "gdp_per_capital": "$21,645"
+    },
+    "Norway": {
+        "population": "5,652,989",
+        "region": "Europe",
+        "gdp": "$599.41 billion",
+        "gdp_full_value": "$599,406,000,000",
+        "gdp_growth": "1.48%",
+        "gdp_per_capital": "$105,877"
+    },
+    "Finland": {
+        "population": "5,621,739",
+        "region": "Europe",
+        "gdp": "$337.67 billion",
+        "gdp_full_value": "$337,669,000,000",
+        "gdp_growth": "1.05%",
+        "gdp_per_capital": "$60,130"
+    },
+    "Mauritania": {
+        "population": "5,461,319",
+        "region": "Africa",
+        "gdp": "$14.35 billion",
+        "gdp_full_value": "$14,352,000,000",
+        "gdp_growth": "4.42%",
+        "gdp_per_capital": "$3,033"
+    },
+    "Slovakia": {
+        "population": "5,451,342",
+        "region": "Europe",
+        "gdp": "$168.9 billion",
+        "gdp_full_value": "$168,897,000,000",
+        "gdp_growth": "0.60%",
+        "gdp_per_capital": "$31,242"
+    },
+    "Ireland": {
+        "population": "5,356,950",
+        "region": "Europe",
+        "gdp": "$779.38 billion",
+        "gdp_full_value": "$779,381,000,000",
+        "gdp_growth": "2.52%",
+        "gdp_per_capital": "$140,186"
+    },
+    "New Zealand": {
+        "population": "5,287,479",
+        "region": "Oceania",
+        "gdp": "$278.64 billion",
+        "gdp_full_value": "$278,636,000,000",
+        "gdp_growth": "2.13%",
+        "gdp_per_capital": "$52,023"
+    },
+    "Costa Rica": {
+        "population": "5,174,789",
+        "region": "Latin America",
+        "gdp": "$109.93 billion",
+        "gdp_full_value": "$109,931,000,000",
+        "gdp_growth": "3.56%",
+        "gdp_per_capital": "$20,299"
+    },
+    "Kuwait": {
+        "population": "5,102,773",
+        "region": "Asia",
+        "gdp": "$172.92 billion",
+        "gdp_full_value": "$172,920,000,000",
+        "gdp_growth": "\u22120.56%",
+        "gdp_per_capital": "$33,164"
+    },
+    "Panama": {
+        "population": "4,625,718",
+        "region": "Latin America",
+        "gdp": "$95.02 billion",
+        "gdp_full_value": "$95,024,000,000",
+        "gdp_growth": "3.84%",
+        "gdp_per_capital": "$20,564"
+    },
+    "Croatia": {
+        "population": "3,822,345",
+        "region": "Europe",
+        "gdp": "$116.57 billion",
+        "gdp_full_value": "$116,574,000,000",
+        "gdp_growth": "2.64%",
+        "gdp_per_capital": "$30,030"
+    },
+    "Georgia": {
+        "population": "3,804,642",
+        "region": "Asia",
+        "gdp": "$42.72 billion",
+        "gdp_full_value": "$42,716,000,000",
+        "gdp_growth": "5.31%",
+        "gdp_per_capital": "$11,574"
+    },
+    "Eritrea": {
+        "population": "3,682,669",
+        "region": "Africa",
+        "gdp": "$2.28 billion (UN, 2023)",
+        "gdp_full_value": "$2,275,290,216",
+        "gdp_growth": "2.80%",
+        "gdp_per_capital": "$656"
+    },
+    "Mongolia": {
+        "population": "3,556,798",
+        "region": "Asia",
+        "gdp": "$28.45 billion",
+        "gdp_full_value": "$28,450,000,000",
+        "gdp_growth": "5.26%",
+        "gdp_per_capital": "$7,853"
+    },
+    "Uruguay": {
+        "population": "3,382,537",
+        "region": "Latin America",
+        "gdp": "$96.09 billion",
+        "gdp_full_value": "$96,092,000,000",
+        "gdp_growth": "1.80%",
+        "gdp_per_capital": "$27,608"
+    },
+    "Qatar": {
+        "population": "3,173,559",
+        "region": "Asia",
+        "gdp": "$217.42 billion",
+        "gdp_full_value": "$217,416,000,000",
+        "gdp_growth": "\u22128.65%",
+        "gdp_per_capital": "$68,138"
+    },
+    "Namibia": {
+        "population": "3,153,246",
+        "region": "Africa",
+        "gdp": "$17.31 billion",
+        "gdp_full_value": "$17,314,000,000",
+        "gdp_growth": "2.40%",
+        "gdp_per_capital": "$5,573"
+    },
+    "Bosnia and Herzegovina": {
+        "population": "3,114,242",
+        "region": "Europe",
+        "gdp": "$36.77 billion",
+        "gdp_full_value": "$36,771,000,000",
+        "gdp_growth": "2.20%",
+        "gdp_per_capital": "$10,701"
+    },
+    "Moldova": {
+        "population": "2,961,253",
+        "region": "Europe",
+        "gdp": "$21.89 billion",
+        "gdp_full_value": "$21,889,000,000",
+        "gdp_growth": "1.90%",
+        "gdp_per_capital": "$9,354"
+    },
+    "Armenia": {
+        "population": "2,930,915",
+        "region": "Asia",
+        "gdp": "$31.87 billion",
+        "gdp_full_value": "$31,873,000,000",
+        "gdp_growth": "5.30%",
+        "gdp_per_capital": "$10,410"
+    },
+    "Gambia": {
+        "population": "2,884,079",
+        "region": "Africa",
+        "gdp": "$2.79 billion",
+        "gdp_full_value": "$2,792,000,000",
+        "gdp_growth": "5.11%",
+        "gdp_per_capital": "$953"
+    },
+    "Jamaica": {
+        "population": "2,833,403",
+        "region": "Latin America",
+        "gdp": "$23.03 billion",
+        "gdp_full_value": "$23,028,000,000",
+        "gdp_growth": "\u22121.15%",
+        "gdp_per_capital": "$8,356"
+    },
+    "Lithuania": {
+        "population": "2,797,338",
+        "region": "Europe",
+        "gdp": "$105.91 billion",
+        "gdp_full_value": "$105,907,000,000",
+        "gdp_growth": "2.91%",
+        "gdp_per_capital": "$36,545"
+    },
+    "Albania": {
+        "population": "2,751,025",
+        "region": "Europe",
+        "gdp": "$33.33 billion",
+        "gdp_full_value": "$33,333,312,000",
+        "gdp_growth": "3.41%",
+        "gdp_per_capital": "$12,493"
+    },
+    "Gabon": {
+        "population": "2,647,399",
+        "region": "Africa",
+        "gdp": "$23.36 billion",
+        "gdp_full_value": "$23,363,000,000",
+        "gdp_growth": "2.67%",
+        "gdp_per_capital": "$9,918"
+    },
+    "Botswana": {
+        "population": "2,603,388",
+        "region": "Africa",
+        "gdp": "$21.94 billion",
+        "gdp_full_value": "$21,937,000,000",
+        "gdp_growth": "4.75%",
+        "gdp_per_capital": "$8,490"
+    },
+    "Lesotho": {
+        "population": "2,389,336",
+        "region": "Africa",
+        "gdp": "$2.97 billion",
+        "gdp_full_value": "$2,972,000,000",
+        "gdp_growth": "1.11%",
+        "gdp_per_capital": "$1,241"
+    },
+    "Guinea-Bissau": {
+        "population": "2,297,808",
+        "region": "Africa",
+        "gdp": "$2.98 billion",
+        "gdp_full_value": "$2,985,000,000",
+        "gdp_growth": "4.90%",
+        "gdp_per_capital": "$1,449"
+    },
+    "Slovenia": {
+        "population": "2,114,573",
+        "region": "Europe",
+        "gdp": "$86.73 billion",
+        "gdp_full_value": "$86,732,000,000",
+        "gdp_growth": "2.00%",
+        "gdp_per_capital": "$40,630"
+    },
+    "Equatorial Guinea": {
+        "population": "1,984,468",
+        "region": "Africa",
+        "gdp": "$13.72 billion",
+        "gdp_full_value": "$13,722,000,000",
+        "gdp_growth": "\u22122.69%",
+        "gdp_per_capital": "$8,152"
+    },
+    "Latvia": {
+        "population": "1,835,935",
+        "region": "Europe",
+        "gdp": "$53.69 billion",
+        "gdp_full_value": "$53,686,000,000",
+        "gdp_growth": "2.22%",
+        "gdp_per_capital": "$28,913"
+    },
+    "North Macedonia": {
+        "population": "1,804,063",
+        "region": "Europe",
+        "gdp": "$21.61 billion",
+        "gdp_full_value": "$21,605,000,000",
+        "gdp_growth": "3.10%",
+        "gdp_per_capital": "$11,967"
+    },
+    "Bahrain": {
+        "population": "1,675,572",
+        "region": "Asia",
+        "gdp": "$48.85 billion",
+        "gdp_full_value": "$48,849,000,000",
+        "gdp_growth": "\u22120.50%",
+        "gdp_per_capital": "$29,569"
+    },
+    "Trinidad and Tobago": {
+        "population": "1,513,268",
+        "region": "Latin America",
+        "gdp": "$26.84 billion",
+        "gdp_full_value": "$26,836,000,000",
+        "gdp_growth": "0.77%",
+        "gdp_per_capital": "$18,616"
+    },
+    "Timor-Leste": {
+        "population": "1,436,923",
+        "region": "Asia",
+        "gdp": "$2.17 billion",
+        "gdp_full_value": "$2,170,000,000",
+        "gdp_growth": "4.10%",
+        "gdp_per_capital": "$1,520"
+    },
+    "Cyprus": {
+        "population": "1,382,334",
+        "region": "Asia",
+        "gdp": "$45.17 billion",
+        "gdp_full_value": "$45,171,000,000",
+        "gdp_growth": "2.95%",
+        "gdp_per_capital": "$45,409"
+    },
+    "Estonia": {
+        "population": "1,331,062",
+        "region": "Europe",
+        "gdp": "$51.63 billion",
+        "gdp_full_value": "$51,634,000,000",
+        "gdp_growth": "1.43%",
+        "gdp_per_capital": "$37,718"
+    },
+    "Eswatini": {
+        "population": "1,269,859",
+        "region": "Africa",
+        "gdp": "$5.79 billion",
+        "gdp_full_value": "$5,792,000,000",
+        "gdp_growth": "4.04%",
+        "gdp_per_capital": "$4,927"
+    },
+    "Mauritius": {
+        "population": "1,265,059",
+        "region": "Africa",
+        "gdp": "$17.12 billion",
+        "gdp_full_value": "$17,119,000,000",
+        "gdp_growth": "3.40%",
+        "gdp_per_capital": "$13,812"
+    },
+    "Djibouti": {
+        "population": "1,199,459",
+        "region": "Africa",
+        "gdp": "$4.72 billion",
+        "gdp_full_value": "$4,725,000,000",
+        "gdp_growth": "6.00%",
+        "gdp_per_capital": "$4,421"
+    },
+    "Fiji": {
+        "population": "937,282",
+        "region": "Oceania",
+        "gdp": "$6.35 billion",
+        "gdp_full_value": "$6,352,000,000",
+        "gdp_growth": "2.43%",
+        "gdp_per_capital": "$6,802"
+    },
+    "Comoros": {
+        "population": "899,010",
+        "region": "Africa",
+        "gdp": "$1.81 billion",
+        "gdp_full_value": "$1,814,000,000",
+        "gdp_growth": "4.08%",
+        "gdp_per_capital": "$1,951"
+    },
+    "Solomon Islands": {
+        "population": "858,288",
+        "region": "Oceania",
+        "gdp": "$1.84 billion",
+        "gdp_full_value": "$1,836,000,000",
+        "gdp_growth": "2.79%",
+        "gdp_per_capital": "$2,258"
+    },
+    "Guyana": {
+        "population": "840,890",
+        "region": "Latin America",
+        "gdp": "$33.96 billion",
+        "gdp_full_value": "$33,961,000,000",
+        "gdp_growth": "16.17%",
+        "gdp_per_capital": "$33,167"
+    },
+    "Bhutan": {
+        "population": "802,214",
+        "region": "Asia",
+        "gdp": "$3.86 billion",
+        "gdp_full_value": "$3,856,000,000",
+        "gdp_growth": "7.48%",
+        "gdp_per_capital": "$4,867"
+    },
+    "Luxembourg": {
+        "population": "687,448",
+        "region": "Europe",
+        "gdp": "$110.42 billion",
+        "gdp_full_value": "$110,417,000,000",
+        "gdp_growth": "1.59%",
+        "gdp_per_capital": "$158,733"
+    },
+    "Suriname": {
+        "population": "645,256",
+        "region": "Latin America",
+        "gdp": "$5.91 billion",
+        "gdp_full_value": "$5,908,000,000",
+        "gdp_growth": "3.93%",
+        "gdp_per_capital": "$8,856"
+    },
+    "Montenegro": {
+        "population": "626,233",
+        "region": "Europe",
+        "gdp": "$10.23 billion",
+        "gdp_full_value": "$10,227,000,000",
+        "gdp_growth": "2.80%",
+        "gdp_per_capital": "$16,377"
+    },
+    "Malta": {
+        "population": "549,011",
+        "region": "Europe",
+        "gdp": "$30.71 billion",
+        "gdp_full_value": "$30,712,000,000",
+        "gdp_growth": "3.70%",
+        "gdp_per_capital": "$53,560"
+    },
+    "Maldives": {
+        "population": "531,517",
+        "region": "Asia",
+        "gdp": "$8.13 billion",
+        "gdp_full_value": "$8,130,000,000",
+        "gdp_growth": "3.02%",
+        "gdp_per_capital": "$19,464"
+    },
+    "Cabo Verde": {
+        "population": "529,630",
+        "region": "Africa",
+        "gdp": "$3.45 billion",
+        "gdp_full_value": "$3,448,000,000",
+        "gdp_growth": "4.79%",
+        "gdp_per_capital": "$6,670"
+    },
+    "Brunei": {
+        "population": "469,775",
+        "region": "Asia",
+        "gdp": "$16.86 billion",
+        "gdp_full_value": "$16,863,000,000",
+        "gdp_growth": "2.60%",
+        "gdp_per_capital": "$36,288"
+    },
+    "Belize": {
+        "population": "428,644",
+        "region": "Latin America",
+        "gdp": "$3.45 billion",
+        "gdp_full_value": "$3,450,000,000",
+        "gdp_growth": "2.19%",
+        "gdp_per_capital": "$8,134"
+    },
+    "Bahamas": {
+        "population": "404,628",
+        "region": "Latin America",
+        "gdp": "$17.04 billion",
+        "gdp_full_value": "$17,042,000,000",
+        "gdp_growth": "2.10%",
+        "gdp_per_capital": "$40,892"
+    },
+    "Iceland": {
+        "population": "402,329",
+        "region": "Europe",
+        "gdp": "$43.8 billion",
+        "gdp_full_value": "$43,800,000,000",
+        "gdp_growth": "1.90%",
+        "gdp_per_capital": "$110,048"
+    },
+    "Vanuatu": {
+        "population": "342,564",
+        "region": "Oceania",
+        "gdp": "$1.4 billion",
+        "gdp_full_value": "$1,396,000,000",
+        "gdp_growth": "3.53%",
+        "gdp_per_capital": "$4,082"
+    },
+    "Barbados": {
+        "population": "282,724",
+        "region": "Latin America",
+        "gdp": "$8.48 billion",
+        "gdp_full_value": "$8,483,000,000",
+        "gdp_growth": "2.46%",
+        "gdp_per_capital": "$29,020"
+    },
+    "Sao Tome & Principe": {
+        "population": "244,994",
+        "region": "Africa",
+        "gdp": "$1.16 billion",
+        "gdp_full_value": "$1,161,000,000",
+        "gdp_growth": "3.40%",
+        "gdp_per_capital": "$4,739"
+    },
+    "Samoa": {
+        "population": "220,528",
+        "region": "Oceania",
+        "gdp": "$1.38 billion",
+        "gdp_full_value": "$1,376,000,000",
+        "gdp_growth": "3.21%",
+        "gdp_per_capital": "$6,455"
+    },
+    "Saint Lucia": {
+        "population": "180,488",
+        "region": "Latin America",
+        "gdp": "$2.77 billion",
+        "gdp_full_value": "$2,765,000,000",
+        "gdp_growth": "1.96%",
+        "gdp_per_capital": "$15,135"
+    },
+    "Kiribati": {
+        "population": "138,445",
+        "region": "Oceania",
+        "gdp": "$401 million",
+        "gdp_full_value": "$401,000,000",
+        "gdp_growth": "3.10%",
+        "gdp_per_capital": "$3,051"
+    },
+    "Seychelles": {
+        "population": "134,959",
+        "region": "Africa",
+        "gdp": "$2.25 billion",
+        "gdp_full_value": "$2,251,000,000",
+        "gdp_growth": "1.52%",
+        "gdp_per_capital": "$17,675"
+    },
+    "Grenada": {
+        "population": "117,362",
+        "region": "Latin America",
+        "gdp": "$1.48 billion",
+        "gdp_full_value": "$1,483,000,000",
+        "gdp_growth": "3.11%",
+        "gdp_per_capital": "$12,689"
+    },
+    "Micronesia": {
+        "population": "114,183",
+        "region": "Oceania",
+        "gdp": "$521 million",
+        "gdp_full_value": "$521,000,000",
+        "gdp_growth": "0.67%",
+        "gdp_per_capital": "$5,514"
+    },
+    "Tonga": {
+        "population": "103,291",
+        "region": "Oceania",
+        "gdp": "$716 million",
+        "gdp_full_value": "$716,000,000",
+        "gdp_growth": "2.32%",
+        "gdp_per_capital": "$7,238"
+    },
+    "St. Vincent & Grenadines": {
+        "population": "99,245",
+        "region": "Latin America",
+        "gdp": "$1.24 billion",
+        "gdp_full_value": "$1,236,000,000",
+        "gdp_growth": "3.00%",
+        "gdp_per_capital": "$11,098"
+    },
+    "Antigua and Barbuda": {
+        "population": "94,626",
+        "region": "Latin America",
+        "gdp": "$2.38 billion",
+        "gdp_full_value": "$2,385,000,000",
+        "gdp_growth": "2.59%",
+        "gdp_per_capital": "$22,448"
+    },
+    "Andorra": {
+        "population": "83,753",
+        "region": "Europe",
+        "gdp": "$4.88 billion",
+        "gdp_full_value": "$4,879,000,000",
+        "gdp_growth": "2.10%",
+        "gdp_per_capital": "$53,475"
+    },
+    "Dominica": {
+        "population": "65,511",
+        "region": "Latin America",
+        "gdp": "$791 million",
+        "gdp_full_value": "$791,000,000",
+        "gdp_growth": "3.14%",
+        "gdp_per_capital": "$10,459"
+    },
+    "Saint Kitts & Nevis": {
+        "population": "46,992",
+        "region": "Latin America",
+        "gdp": "$1.14 billion",
+        "gdp_full_value": "$1,143,000,000",
+        "gdp_growth": "2.04%",
+        "gdp_per_capital": "$22,146"
+    },
+    "Liechtenstein": {
+        "population": "40,368",
+        "region": "Europe",
+        "gdp": "$9.44 billion",
+        "gdp_full_value": "$9,442,000,000",
+        "gdp_growth": "\u22120.40%",
+        "gdp_per_capital": "$226,809"
+    },
+    "Monaco": {
+        "population": "38,087",
+        "region": "Europe",
+        "gdp": "$10 billion (WB, 2023)",
+        "gdp_full_value": "$9,995,350,547",
+        "gdp_growth": "5.04%",
+        "gdp_per_capital": "$256,581"
+    },
+    "Marshall Islands": {
+        "population": "35,075",
+        "region": "Oceania",
+        "gdp": "$342 million",
+        "gdp_full_value": "$342,000,000",
+        "gdp_growth": "3.67%",
+        "gdp_per_capital": "$9,677"
+    },
+    "San Marino": {
+        "population": "33,605",
+        "region": "Europe",
+        "gdp": "$2.42 billion",
+        "gdp_full_value": "$2,417,000,000",
+        "gdp_growth": "1.30%",
+        "gdp_per_capital": "$70,187"
+    },
+    "Palau": {
+        "population": "17,614",
+        "region": "Oceania",
+        "gdp": "$377 million",
+        "gdp_full_value": "$377,000,000",
+        "gdp_growth": "3.30%",
+        "gdp_per_capital": "$21,571"
+    },
+    "Nauru": {
+        "population": "12,101",
+        "region": "Oceania",
+        "gdp": "$196 million",
+        "gdp_full_value": "$196,000,000",
+        "gdp_growth": "2.13%",
+        "gdp_per_capital": "$16,053"
+    },
+    "Tuvalu": {
+        "population": "9,362",
+        "region": "Oceania",
+        "gdp": "$65 million",
+        "gdp_full_value": "$65,000,000",
+        "gdp_growth": "2.54%",
+        "gdp_per_capital": "$6,581"
+    },
+    "Holy See": {
+        "population": "506",
+        "region": "Europe",
+        "gdp": null,
+        "gdp_full_value": null,
+        "gdp_growth": null,
+        "gdp_per_capital": null
+    },
+    "Taiwan": {
+        "population": "23,011,292",
+        "region": "China",
+        "gdp": "$976.72 billion",
+        "gdp_full_value": "$976,719,000,000",
+        "gdp_growth": "5.18%",
+        "gdp_per_capital": "$42,103"
+    },
+    "Hong Kong": {
+        "population": "7,378,602",
+        "region": "China",
+        "gdp": "$450.14 billion",
+        "gdp_full_value": "$450,138,000,000",
+        "gdp_growth": "2.42%",
+        "gdp_per_capital": "$59,640"
+    },
+    "Puerto Rico": {
+        "population": "3,222,688",
+        "region": "U.S.",
+        "gdp": "$129.01 billion",
+        "gdp_full_value": "$129,012,000,000",
+        "gdp_growth": "\u22120.10%",
+        "gdp_per_capital": "$40,650"
+    },
+    "R\u00e9union": {
+        "population": "886,298",
+        "region": "France",
+        "gdp": null,
+        "gdp_full_value": null,
+        "gdp_growth": null,
+        "gdp_per_capital": null
+    },
+    "Macao": {
+        "population": "723,188",
+        "region": "China",
+        "gdp": "$54.23 billion",
+        "gdp_full_value": "$54,228,000,000",
+        "gdp_growth": "2.99%",
+        "gdp_per_capital": "$76,446"
+    },
+    "Western Sahara": {
+        "population": "610,813",
+        "region": "(disputed)",
+        "gdp": null,
+        "gdp_full_value": null,
+        "gdp_growth": null,
+        "gdp_per_capital": null
+    },
+    "Guadeloupe": {
+        "population": "372,453",
+        "region": "France",
+        "gdp": null,
+        "gdp_full_value": null,
+        "gdp_growth": null,
+        "gdp_per_capital": null
+    },
+    "Mayotte": {
+        "population": "347,536",
+        "region": "France",
+        "gdp": null,
+        "gdp_full_value": null,
+        "gdp_growth": null,
+        "gdp_per_capital": null
+    },
+    "Martinique": {
+        "population": "337,711",
+        "region": "France",
+        "gdp": null,
+        "gdp_full_value": null,
+        "gdp_growth": null,
+        "gdp_per_capital": null
+    },
+    "French Guiana": {
+        "population": "318,872",
+        "region": "France",
+        "gdp": null,
+        "gdp_full_value": null,
+        "gdp_growth": null,
+        "gdp_per_capital": null
+    },
+    "New Caledonia": {
+        "population": "297,892",
+        "region": "France",
+        "gdp": "$10.14 billion (UN, 2023)",
+        "gdp_full_value": "$10,139,988,153",
+        "gdp_growth": "\u22120.41%",
+        "gdp_per_capital": "$34,981"
+    },
+    "French Polynesia": {
+        "population": "283,076",
+        "region": "France",
+        "gdp": "$6.4 billion (WB, 2023)",
+        "gdp_full_value": "$6,402,221,222",
+        "gdp_growth": "3.00%",
+        "gdp_per_capital": "$22,774"
+    },
+    "Cura\u00e7ao": {
+        "population": "185,440",
+        "region": "Netherlands",
+        "gdp": "$3.28 billion (WB, 2023)",
+        "gdp_full_value": "$3,281,419,347",
+        "gdp_growth": "4.20%",
+        "gdp_per_capital": "$21,062"
+    },
+    "Guam": {
+        "population": "170,185",
+        "region": "U.S.",
+        "gdp": "$6.91 billion (WB, 2022)",
+        "gdp_full_value": "$6,910,000,000",
+        "gdp_growth": "5.10%",
+        "gdp_per_capital": "$41,833"
+    },
+    "Aruba": {
+        "population": "108,164",
+        "region": "Netherlands",
+        "gdp": "$4.67 billion",
+        "gdp_full_value": "$4,671,000,000",
+        "gdp_growth": "2.25%",
+        "gdp_per_capital": "$42,862"
+    },
+    "Isle of Man": {
+        "population": "84,055",
+        "region": "U.K.",
+        "gdp": "$7.43 billion (WB, 2022)",
+        "gdp_full_value": "$7,431,257,411",
+        "gdp_growth": "\u22124.17%",
+        "gdp_per_capital": "$88,329"
+    },
+    "U.S. Virgin Islands": {
+        "population": "83,400",
+        "region": "U.S.",
+        "gdp": "$4.67 billion (WB, 2022)",
+        "gdp_full_value": "$4,672,000,000",
+        "gdp_growth": "\u22121.31%",
+        "gdp_per_capital": "$44,321"
+    },
+    "Cayman Islands": {
+        "population": "77,196",
+        "region": "U.K.",
+        "gdp": "$7.14 billion (WB, 2023)",
+        "gdp_full_value": "$7,139,428,558",
+        "gdp_growth": "4.36%",
+        "gdp_per_capital": "$97,750"
+    },
+    "Bermuda": {
+        "population": "64,459",
+        "region": "U.K.",
+        "gdp": "$8.98 billion (WB, 2024)",
+        "gdp_full_value": "$8,980,200,000",
+        "gdp_growth": "2.11%",
+        "gdp_per_capital": "$138,935"
+    },
+    "Faeroe Islands": {
+        "population": "56,526",
+        "region": "Denmark",
+        "gdp": "$3.91 billion (WB, 2023)",
+        "gdp_full_value": "$3,907,323,961",
+        "gdp_growth": "2.49%",
+        "gdp_per_capital": "$71,774"
+    },
+    "Greenland": {
+        "population": "55,629",
+        "region": "Denmark",
+        "gdp": "$3.33 billion (WB, 2023)",
+        "gdp_full_value": "$3,326,544,174",
+        "gdp_growth": "0.87%",
+        "gdp_per_capital": "$58,499"
+    },
+    "Turks and Caicos": {
+        "population": "47,148",
+        "region": "U.K.",
+        "gdp": "$1.75 billion (WB, 2024)",
+        "gdp_full_value": "$1,745,378,000",
+        "gdp_growth": "5.64%",
+        "gdp_per_capital": "$37,507"
+    },
+    "American Samoa": {
+        "population": "45,319",
+        "region": "U.S.",
+        "gdp": "$871 million (WB, 2022)",
+        "gdp_full_value": "$871,000,000",
+        "gdp_growth": "1.74%",
+        "gdp_per_capital": "$18,017"
+    },
+    "Sint Maarten": {
+        "population": "44,447",
+        "region": "Netherlands",
+        "gdp": "$1.74 billion (WB, 2024)",
+        "gdp_full_value": "$1,735,210,228",
+        "gdp_growth": "3.50%",
+        "gdp_per_capital": "$40,028"
+    },
+    "Northern Mariana Islands": {
+        "population": "42,914",
+        "region": "U.S.",
+        "gdp": "$1.1 billion (WB, 2022)",
+        "gdp_full_value": "$1,096,000,000",
+        "gdp_growth": "16.64%",
+        "gdp_per_capital": "$23,786"
+    },
+    "Gibraltar": {
+        "population": "40,867",
+        "region": "U.K.",
+        "gdp": null,
+        "gdp_full_value": null,
+        "gdp_growth": null,
+        "gdp_per_capital": null
+    },
+    "British Virgin Islands": {
+        "population": "39,936",
+        "region": "U.K.",
+        "gdp": "$1.51 billion (UN, 2023)",
+        "gdp_full_value": "$1,505,856,107",
+        "gdp_growth": "2.76%",
+        "gdp_per_capital": "$38,627"
+    },
+    "Caribbean Netherlands": {
+        "population": "31,913",
+        "region": "Netherlands",
+        "gdp": null,
+        "gdp_full_value": null,
+        "gdp_growth": null,
+        "gdp_per_capital": null
+    },
+    "Saint Martin": {
+        "population": "23,898",
+        "region": "France",
+        "gdp": "$649.21 million (WB, 2021)",
+        "gdp_full_value": "$649,206,156",
+        "gdp_growth": "4.90%",
+        "gdp_per_capital": "$21,668"
+    },
+    "Anguilla": {
+        "population": "14,817",
+        "region": "U.K.",
+        "gdp": "$415.74 million (UN, 2023)",
+        "gdp_full_value": "$415,735,284",
+        "gdp_growth": "2.47%",
+        "gdp_per_capital": "$28,850"
+    },
+    "Cook Islands": {
+        "population": "12,826",
+        "region": "partlyNew Zealand",
+        "gdp": "$366.21 million (UN, 2023)",
+        "gdp_full_value": "$366,211,548",
+        "gdp_growth": "19.07%",
+        "gdp_per_capital": "$25,750"
+    },
+    "Saint Barthelemy": {
+        "population": "11,550",
+        "region": "France",
+        "gdp": null,
+        "gdp_full_value": null,
+        "gdp_growth": null,
+        "gdp_per_capital": null
+    },
+    "Wallis & Futuna": {
+        "population": "11,113",
+        "region": "France",
+        "gdp": null,
+        "gdp_full_value": null,
+        "gdp_growth": null,
+        "gdp_per_capital": null
+    },
+    "Saint Pierre & Miquelon": {
+        "population": "5,513",
+        "region": "France",
+        "gdp": null,
+        "gdp_full_value": null,
+        "gdp_growth": null,
+        "gdp_per_capital": null
+    },
+    "Saint Helena": {
+        "population": "5,147",
+        "region": "U.K.",
+        "gdp": null,
+        "gdp_full_value": null,
+        "gdp_growth": null,
+        "gdp_per_capital": null
+    },
+    "Montserrat": {
+        "population": "4,328",
+        "region": "U.K.",
+        "gdp": "$80.43 million (UN, 2023)",
+        "gdp_full_value": "$80,429,630",
+        "gdp_growth": "7.29%",
+        "gdp_per_capital": "$18,197"
+    },
+    "Falkland Islands": {
+        "population": "3,465",
+        "region": "U.K.",
+        "gdp": null,
+        "gdp_full_value": null,
+        "gdp_growth": null,
+        "gdp_per_capital": null
+    },
+    "Tokelau": {
+        "population": "2,691",
+        "region": "New Zealand",
+        "gdp": null,
+        "gdp_full_value": null,
+        "gdp_growth": null,
+        "gdp_per_capital": null
+    },
+    "Niue": {
+        "population": "1,822",
+        "region": "partlyNew Zealand",
+        "gdp": null,
+        "gdp_full_value": null,
+        "gdp_growth": null,
+        "gdp_per_capital": null
+    }
+}
