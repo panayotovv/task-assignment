@@ -13,3 +13,4 @@ def most_populated_or_highest_gdp():
     else:
         return {"error": "Invalid attribute"}
 
+print(most_populated_or_highest_gdp())

@@ -1,7 +1,7 @@
 import json
 
 def list_all_countries_by_region():
-    with open("../countries_data.json", "r") as file:
+    with open("countries_data.json", "r") as file:
         data = json.load(file)
 
     region_input = input("Please enter a region: ")

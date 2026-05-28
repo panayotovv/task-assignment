@@ -1,7 +1,7 @@
 import json
 
 def return_requested_attrs():
-    with open("../countries_data.json", "r") as file:
+    with open("countries_data.json", "r") as file:
         data = json.load(file)
 
     country = input("Please enter a country: ")

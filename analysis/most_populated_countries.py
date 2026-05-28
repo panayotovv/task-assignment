@@ -1,7 +1,7 @@
 import json
 
 def most_populated_countries(region=None):
-    with open("../countries_data.json", "r") as file:
+    with open("countries_data.json", "r") as file:
         data = json.load(file)
 
     countries = {}

@@ -1,7 +1,7 @@
 import json
 def total_and_average_population_gdp_per_region():
 
-    with open("../countries_data.json", "r") as file:
+    with open("countries_data.json", "r") as file:
         data = json.load(file)
 
     region_input = input("Please enter a region: ")
